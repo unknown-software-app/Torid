@@ -1,1 +1,1 @@
-"# Torid" 
+execute 'npm install'
